@@ -1,2 +1,2 @@
 # UnpackAI
-UnpackAI Bootcamp(s): "Building Deep Learning Applications"
+[UnpackAI](http://unpackai.com/bootcamps/) Bootcamp(s): "Building Deep Learning Applications"
