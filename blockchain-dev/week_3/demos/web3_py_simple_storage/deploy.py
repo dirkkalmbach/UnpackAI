@@ -111,18 +111,6 @@ tx_receipt = w3.eth.wait_for_transaction_receipt(tx_greeting_hash)
 print(simple_storage.functions.retrieve().call())
 
 
-
-
-
-
-
-
-
-
-
-
-
-    
 # Solidity source code
 compiled_sol = compile_standard(
     {
